@@ -26,10 +26,11 @@
 - Power BI Desktop (DAX, Power Query)
 - Duomenys iš Kaggle atviro duomenų rinkinio
 - Vizualizacijos: stulpelinės, skritulinės, linijinės diagramos, KPI kortelės, interaktyvūs filtrai
-![pav](./priedai/nuotraukos/1.png)
-![pav](./priedai/nuotraukos/2.png)
-![pav](./priedai/nuotraukos/3.png)
-![pav](./priedai/nuotraukos/4.png)
+
+<img src="./priedai/nuotraukos/1.png" alt="Dashboard 1" width="200" height="110"/>
+<img src="./priedai/nuotraukos/2.png" alt="Dashboard 1" width="200" height="110"/>
+<img src="./priedai/nuotraukos/3.png" alt="Dashboard 1" width="200" height="110"/>
+<img src="./priedai/nuotraukos/4.png" alt="Dashboard 1" width="200" height="110"/>
 
 ## 🎯 Kas pasiekta
 
