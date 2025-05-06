@@ -1,5 +1,13 @@
 # 👋 Labas! Aš – Julija Skridulytė
 
+## Apie šį profilį
+
+Šiame GitHub profilyje rasite mano asmeninius duomenų analizės projektus, sukurtus remiantis viešai prieinamais duomenų šaltiniais – tokiomis platformomis kaip [Kaggle](https://www.kaggle.com/) ir [atvirų duomenų portalo](https://data.gov.lt/).
+
+Kiekvienas projektas – tai praktinis bandymas pritaikyti SQL, Power BI, DAX ar duomenų modelių kūrimo žinias sprendžiant realias ar hipotetines problemas.
+
+## Apie mane
+
 Esu pradedančioji duomenų analitikė, turinti stiprią patirtį kokybės valdymo ir verslo procesų analizės srityje. Dirbdama gamybos įmonėse išmokau vertinti duomenų kokybę, analizuoti veiklos rodiklius (KPI), spręsti problemas ir bendradarbiauti su skirtingais padaliniais. 
 
 Pastaraisiais metais sąmoningai keičiau savo profesinį kelią, gilindama žinias duomenų analitikos srityje. 
@@ -33,6 +41,8 @@ Baigusi kursus, įgijau praktinių įgūdžių dirbant su **SQL**, **Python**, *
 Esu atvira pozicijoms įvairiuose Lietuvos miestuose – esant poreikiui, esu pasirengusi persikelti.
 
 ---
+
+
 
 
 📫 Susisiekime:  
