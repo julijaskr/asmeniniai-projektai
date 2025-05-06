@@ -1,1 +1,1 @@
-# projektas
+# python projektų readme failas

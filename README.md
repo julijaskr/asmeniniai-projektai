@@ -1,1 +1,1 @@
-# asmeniniai-projektai
+# čia yra pagrindinis asmeninių projektų readme failas

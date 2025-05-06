@@ -1,1 +1,1 @@
-# projektas
+# sql projektų readme failas
