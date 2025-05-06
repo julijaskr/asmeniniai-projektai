@@ -27,11 +27,15 @@ Kiekvienas projektas parengtas savarankiškai, taikant **duomenų analizės, mod
 
 ---
 
-### 2️⃣ (Tavo kitas projektas)  
-**Tema:** (trumpas aprašymas)  
-📁 [Peržiūrėti projektą](./kito-projekto-aprasymas)
-
-
+### 2️⃣ Skubūs pranešimai apie nesaugų maistą ir pašarus 
+**Tema:** Lietuvos Skubių pranešimų apie nesaugų maistą ir pašarus sistemos (RASFF) duomenų analizė, viešai prieinami Lietuvos atvirų duomenų portale nuo 2024 m. balandžio mėn.
+**Naudotos priemonės:** Power BI, DAX, Power Query  
+**Fokusas:**  
+- Duomenų valymas ir transformacijos  
+- KPI rodiklių išgryninimas  
+- Interaktyvių filtrų integracija
+- Drill funkcijos pritaikymas
+📁 [Peržiūrėti projektą](./projektas_2/README.md)
 
 ---
 
