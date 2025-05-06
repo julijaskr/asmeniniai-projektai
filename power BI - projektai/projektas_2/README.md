@@ -45,6 +45,9 @@ Projektu siekiama:
 
 - Aktyviausi ūkio subjektai pagal pranešimų skaičių: UAB Rivona, Maxima LT, BIOVELA-UTENOS mėsa ir kt..
 
+![pav](./priedai/nuotraukos/1.png)
+![pav.](./priedai/nuotraukos/2.png)
+
 
 ## Naudotos technologijos
 
@@ -57,6 +60,9 @@ Projektu siekiama:
 - Duomenų modeliavimas – ryšių tarp lentelių kūrimas
 
 - Vizualizacijos: stulpelinės, skritulinės, linijinės diagramos, KPI kortelės, interaktyvūs filtrai
+
+- Drill-down funkcionalumas - duomenų gilinimas nuo pranešimų pasikartojamumo iki pranešėjo tipo
+
 
 
 ## Kaip naudotis projektu
