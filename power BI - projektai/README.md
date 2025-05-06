@@ -23,7 +23,7 @@ Kiekvienas projektas parengtas savarankiškai, taikant **duomenų analizės, mod
 - Duomenų valymas ir transformacijos  
 - KPI rodiklių išgryninimas  
 - Interaktyvių filtrų integracija  
-📁 [Peržiūrėti projektą](./Miegas-Projektas/README.md)
+📁 [Peržiūrėti projektą](./projektas_1/README.md)
 
 ---
 
