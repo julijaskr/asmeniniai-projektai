@@ -26,15 +26,20 @@
 - Power BI Desktop (DAX, Power Query)
 - Duomenys iš Kaggle atviro duomenų rinkinio
 - Vizualizacijos: stulpelinės, skritulinės, linijinės diagramos, KPI kortelės, interaktyvūs filtrai
+![pav](./priedai/nuotraukos/1.png)
+![pav](./priedai/nuotraukos/2.png)
+![pav](./priedai/nuotraukos/3.png)
+![pav](./priedai/nuotraukos/4.png)
 
 ## 🎯 Kas pasiekta
 
 - Sukurtas interaktyvus prietaisų skydelis, leidžiantis tyrinėti miego, sveikatos ir gyvenimo būdo sąsajas pagal įvairius demografinius pjūvius;
 - Praktikoje įtvirtinti Power BI įgūdžiai: duomenų modeliavimas, DAX, vizualizacijų kūrimas;
 - Išmokta efektyviai pateikti analitinę informaciją ne techniniam vartotojui.
+  
 
 ## 📂 Projekto failai
 
-- Power BI .pbix failas 
-- PDF .pdf failas
+- [power bi](./priedai/dokumentai/Miego%20sveikatos%20ir%20gyvenimo%20būdo%20duomenų%20rinkinys.pbix)
+- [pdf](./priedai/dokumentai/Miego%20sveikatos%20ir%20gyvenimo%20būdo%20duomenų%20rinkinys.pdf)
 - Šis README failas
