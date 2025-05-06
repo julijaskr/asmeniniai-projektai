@@ -27,10 +27,10 @@
 - Duomenys iš Kaggle atviro duomenų rinkinio
 - Vizualizacijos: stulpelinės, skritulinės, linijinės diagramos, KPI kortelės, interaktyvūs filtrai
 
-<img src="./priedai/nuotraukos/1.png" alt="Dashboard 1" width="200" height="110"/>
-<img src="./priedai/nuotraukos/2.png" alt="Dashboard 1" width="200" height="110"/>
-<img src="./priedai/nuotraukos/3.png" alt="Dashboard 1" width="200" height="110"/>
-<img src="./priedai/nuotraukos/4.png" alt="Dashboard 1" width="200" height="110"/>
+<img src="./priedai/nuotraukos/1.png" alt="Dashboard 1" style="width:200px; height:110px;" />
+<img src="./priedai/nuotraukos/2.png" alt="Dashboard 2" style="width:200px; height:110px;" />
+<img src="./priedai/nuotraukos/3.png" alt="Dashboard 3" style="width:200px; height:110px;" />
+<img src="./priedai/nuotraukos/4.png" alt="Dashboard 4" style="width:200px; height:110px;" />
 
 ## 🎯 Kas pasiekta
 
