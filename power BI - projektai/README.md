@@ -1,4 +1,4 @@
-# 📊 Power BI Projektai – Julija Skridulytė
+# 📊 Power BI Projektai 
 
 Sveiki!  
 Šiame GitHub profilyje dalinuosi savo asmeniniais Power BI projektais, kurie sukurti naudojant **atvirus duomenis** iš tokių šaltinių kaip [Kaggle](https://www.kaggle.com/) ir [Lietuvos atvirų duomenų portalas](https://data.gov.lt/).  
@@ -31,7 +31,7 @@ Kiekvienas projektas parengtas savarankiškai, taikant **duomenų analizės, mod
 **Tema:** (trumpas aprašymas)  
 📁 [Peržiūrėti projektą](./kito-projekto-aprasymas)
 
-*(Papildyk naujais projektais laikui bėgant)*
+
 
 ---
 
@@ -40,7 +40,7 @@ Kiekvienas projektas parengtas savarankiškai, taikant **duomenų analizės, mod
 - **Power BI Desktop** – ataskaitų kūrimui  
 - **DAX** – skaičiavimams ir KPI rodikliams  
 - **Power Query** – duomenų valymui ir transformavimui  
-- **SQL / Python** (kai taikoma) – gilesnei analizei  
+- **SQL / Python** – gilesnei analizei  
 
 ---
 
