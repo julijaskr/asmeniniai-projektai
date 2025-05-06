@@ -35,6 +35,7 @@ Kiekvienas projektas parengtas savarankiškai, taikant **duomenų analizės, mod
 - KPI rodiklių išgryninimas  
 - Interaktyvių filtrų integracija
 - Drill funkcijos pritaikymas
+  
 📁 [Peržiūrėti projektą](./projektas_2/README.md)
 
 ---
