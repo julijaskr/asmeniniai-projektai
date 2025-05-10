@@ -28,16 +28,7 @@ Each project is independently developed and reflects my approach to exploring bu
 
 📁 _Explore project folder_
 
-2️⃣ **Food Alert Trends (RASFF Lithuania)**  
-**Topic:** Analysis of food safety notifications in Lithuania using publicly available RASFF data (since April 2024)  
-**Tools used:** SQL (MySQL), Power BI  
-**Focus areas:**
-- Structuring and filtering alert data  
-- Identifying trends over time and by category  
-- Preparing clean datasets for dashboard visualization  
-
-📁 _Explore project folder_
-
+2️⃣ 
 ---
 
 ## 🛠️ Tools & Technologies
