@@ -4,7 +4,7 @@ This project showcases an exploratory SQL analysis using the classic **Northwind
 
 ## Dataset
 
-The project is based on the **Northwind** [database](https://github.com/jpwhite3/northwind-SQLite), a fictional company that imports and exports specialty foods. It includes key business entities like:
+The project is based on the [Northwind](https://github.com/jpwhite3/northwind-SQLite) database, a fictional company that imports and exports specialty foods. It includes key business entities like:
 - `orders`
 - `order_details`
 - `customers`
