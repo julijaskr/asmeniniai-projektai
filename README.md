@@ -1,3 +1,55 @@
+# 👋 Hi! I'm Julija Skridulytė
+
+## 📂 About this profile  
+In this GitHub profile, you will find my personal data analysis projects. They are based on publicly available data from platforms like Kaggle and the Lithuanian Open Data Portal.
+
+Each project is a practical way for me to use my skills in **SQL**, **Power BI**, **DAX**, or **data modeling** to solve real or imagined problems.
+
+---
+
+## 👩‍💻 About me  
+I am a **junior data analyst** with a strong background in **quality management** and **business process analysis**. Working in manufacturing companies taught me how to check data quality, analyze **key performance indicators (KPIs)**, solve problems, and work with different departments.
+
+In recent years, I have decided to change my career and learn more about data analytics. After finishing courses, I gained practical skills in **SQL**, **Python**, **Power BI**, and **DAX**. I can analyze and organize data, write requirements for information systems, and suggest process improvement ideas. I can also find ways to improve business processes, work across teams, and present data-based insights to managers.
+
+---
+
+## 📊 I recently finished data analytics training, where I learned:
+- Power BI  
+- MySQL  
+- Basic Python  
+- Process automation  
+
+---
+
+## 🛠️ My work experience includes:
+- Process analysis, improvement, and documentation  
+- KPI tracking and deviation analysis  
+- Team coordination and project management  
+- Creating and supporting quality systems in manufacturing  
+- Risk assessment, audits, and improvement plans  
+- Interpreting efficiency and performance data  
+
+---
+
+## 💡 I am most interested in:
+- Manufacturing sector and quality data  
+- Advanced business analytics and building a strong data culture  
+- Learning from experienced colleagues and creating meaningful solutions  
+
+---
+
+## 🌍 Work flexibility  
+I am open to jobs in different cities in **Lithuania**. If needed, I am ready to relocate.
+
+---
+
+## 📫 Contact me  
+- [LinkedIn](https://www.linkedin.com/in/julija-skridulyte/)  
+- Email: luckyjulja@yahoo.com
+
+
+
 # 👋 Labas! Aš – Julija Skridulytė
 
 ## Apie šį profilį
